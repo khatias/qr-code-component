@@ -28,8 +28,8 @@
 
 ### Links
 
-- Solution URL: (https://github.com/khatias/qr-code-component)
-- Live Site URL: (https://khatias.github.io/qr-code-component/)
+- Solution URL:[Solution URL here](https://github.com/khatias/qr-code-component)
+- Live Site URL:[Live Site URL here](https://khatias.github.io/qr-code-component/)
 
 ## My process
 
